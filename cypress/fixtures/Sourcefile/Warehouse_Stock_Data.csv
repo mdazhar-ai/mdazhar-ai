@@ -1,0 +1,401 @@
+ItemID,Item,Size,QuantityPerOuter,UnitPrice,RecommendedRetailPrice,TypicalWeightPerUnit,QuantityOnHand,BinLocation,ReorderLevel,LastCostPrice,PackageTypeName,ItemGroupName
+1,USB missile launcher -Green,,1,25,37.38,0.3,175609,L-1,20,9.5,Each,Novelty Items
+1,USB missile launcher -Green,,1,25,37.38,0.3,175609,L-1,20,9.5,Each,Computing Novelties
+1,USB missile launcher -Green,NULL,1,25,37.38,0.3,175609,L-1,20,9.5,Each,USB Novelties
+2,USB rocket launcher -Gray,NULL,1,25,37.38,0.3,165538,L-1,20,9.5,Each,Novelty Items
+2,USB rocket launcher -Gray,NULL,1,25,37.38,0.3,165538,L-1,20,9.5,Each,Computing Novelties
+2,USB rocket launcher -Gray,NULL,1,25,37.38,0.3,165538,L-1,20,9.5,Each,USB Novelties
+3,Office cube periscope -Black,NULL,10,18.5,27.66,0.25,253190,L-2,10,11.25,Carton,Novelty Items
+3,Office cube periscope -Black,NULL,10,18.5,27.66,0.25,253190,L-2,10,11.25,Carton,Computing Novelties
+4,USB food flash drive - sushi roll,NULL,1,32,47.84,0.05,208109,L-3,5,12,Each,Novelty Items
+4,USB food flash drive - sushi roll ,NULL,1,32,47.84,0.05,208109,L-3,5,12,Each,Computing Novelties
+4,USB food flash drive - sushi roll ,NULL,1,32,47.84,0.05,208109,L-3,5,12,Each,USB Novelties
+5,USB food flash drive - hamburger ,NULL,1,32,47.84,0.05,199064,L-3,5,12,Each,Novelty Items
+5,USB food flash drive - hamburger  ,NULL,1,32,47.84,0.05,199064,L-3,5,12,Each,Computing Novelties
+5,USB food flash drive - hamburger  ,NULL,1,32,47.84,0.05,199064,L-3,5,12,Each,USB Novelties
+6,USB food flash drive - hot dog ,NULL,1,32,47.84,0.05,196995,L-3,5,12,Each,Novelty Items
+6,USB food flash drive - hot dog ,NULL,1,32,47.84,0.05,196995,L-3,5,12,Each,Computing Novelties
+6,USB food flash drive - hot dog ,NULL,1,32,47.84,0.05,196995,L-3,5,12,Each,USB Novelties
+7,USB food flash drive - pizza slice ,NULL,1,32,47.84,0.05,205295,L-3,5,12,Each,Novelty Items
+7,USB food flash drive - pizza slice ,NULL,1,32,47.84,0.05,205295,L-3,5,12,Each,Computing Novelties
+7,USB food flash drive - pizza slice ,NULL,1,32,47.84,0.05,205295,L-3,5,12,Each,USB Novelties
+8,USB food flash drive - dim sum 10 drive variety pack ,NULL,1,240,358.8,0.5,412277,L-3,10,88.5,Packet,Novelty Items
+8,USB food flash drive - dim sum 10 drive variety pack ,NULL,1,240,358.8,0.5,412277,L-3,10,88.5,Packet,Computing Novelties
+8,USB food flash drive - dim sum 10 drive variety pack ,NULL,1,240,358.8,0.5,412277,L-3,10,88.5,Packet,USB Novelties
+9,USB food flash drive - banana ,NULL,1,32,47.84,0.05,192749,L-3,5,12,Each,Novelty Items
+9,USB food flash drive - banana ,NULL,1,32,47.84,0.05,192749,L-3,5,12,Each,Computing Novelties
+9,USB food flash drive - banana ,NULL,1,32,47.84,0.05,192749,L-3,5,12,Each,USB Novelties
+10,USB food flash drive - chocolate bar ,NULL,1,32,47.84,0.05,222572,L-3,5,12,Each,Novelty Items
+10,USB food flash drive - chocolate bar ,NULL,1,32,47.84,0.05,222572,L-3,5,12,Each,Computing Novelties
+10,USB food flash drive - chocolate bar ,NULL,1,32,47.84,0.05,222572,L-3,5,12,Each,USB Novelties
+11,USB food flash drive - cookie ,NULL,1,32,47.84,0.05,203148,L-3,5,12,Each,Novelty Items
+11,USB food flash drive - cookie ,NULL,1,32,47.84,0.05,203148,L-3,5,12,Each,Computing Novelties
+11,USB food flash drive - cookie ,NULL,1,32,47.84,0.05,203148,L-3,5,12,Each,USB Novelties
+12,USB food flash drive - donut ,NULL,1,32,47.84,0.05,200406,L-3,5,12,Each,Novelty Items
+12,USB food flash drive - donut ,NULL,1,32,47.84,0.05,200406,L-3,5,12,Each,Computing Novelties
+12,USB food flash drive - donut ,NULL,1,32,47.84,0.05,200406,L-3,5,12,Each,USB Novelties
+13,USB food flash drive - shrimp cocktail ,NULL,1,32,47.84,0.05,197453,L-3,5,12,Each,Novelty Items
+13,USB food flash drive - shrimp cocktail ,NULL,1,32,47.84,0.05,197453,L-3,5,12,Each,Computing Novelties
+13,USB food flash drive - shrimp cocktail ,NULL,1,32,47.84,0.05,197453,L-3,5,12,Each,USB Novelties
+14,USB food flash drive - fortune cookie ,NULL,1,32,47.84,0.05,192358,L-3,5,12,Each,Novelty Items
+14,USB food flash drive - fortune cookie ,NULL,1,32,47.84,0.05,192358,L-3,5,12,Each,Computing Novelties
+14,USB food flash drive - fortune cookie ,NULL,1,32,47.84,0.05,192358,L-3,5,12,Each,USB Novelties
+15,USB food flash drive - dessert 10 drive variety pack ,NULL,1,240,358.8,0.5,398290,L-3,10,88.5,Packet,Novelty Items
+15,USB food flash drive - dessert 10 drive variety pack ,NULL,1,240,358.8,0.5,398290,L-3,10,88.5,Packet,Computing Novelties
+15,USB food flash drive - dessert 10 drive variety pack ,NULL,1,240,358.8,0.5,398290,L-3,10,88.5,Packet,USB Novelties
+16,DBA joke mug mind if I join you? -White,NULL,1,13,19.44,0.15,51836,K-9,15,4.5,Each,Novelty Items
+16,DBA joke mug  mind if I join you? -White,NULL,1,13,19.44,0.15,51836,K-9,15,4.5,Each,Mugs
+16,DBA joke mug  mind if I join you? -White,NULL,1,13,19.44,0.15,51836,K-9,15,4.5,Each,Computing Novelties
+17,DBA joke mug  mind if I join you? -Black,NULL,1,13,19.44,0.15,62428,K-9,15,4.5,Each,Novelty Items
+17,DBA joke mug   mind if I join you? -Black,NULL,1,13,19.44,0.15,62428,K-9,15,4.5,Each,Mugs
+17,DBA joke mug  mind if I join you? -Black,NULL,1,13,19.44,0.15,62428,K-9,15,4.5,Each,Computing Novelties
+18,DBA joke mug  daaaaaa ta -White,NULL,1,13,19.44,0.15,89207,K-9,15,4.5,Each,Novelty Items
+18,DBA joke mug  daaaaaa ta -White,NULL,1,13,19.44,0.15,89207,K-9,15,4.5,Each,Mugs
+18,DBA joke mug  daaaaaa ta -White,NULL,1,13,19.44,0.15,89207,K-9,15,4.5,Each,Computing Novelties
+19,DBA joke mug  daaaaaa ta -Black,NULL,1,13,19.44,0.15,68800,K-9,15,4.5,Each,Novelty Items
+19,DBA joke mug   daaaaaa ta -Black,NULL,1,13,19.44,0.15,68800,K-9,15,4.5,Each,Mugs
+19,DBA joke mug daaaaaa ta -Black,NULL,1,13,19.44,0.15,68800,K-9,15,4.5,Each,Computing Novelties
+20,DBA joke mug  you might be a DBA if -White,NULL,1,13,19.44,0.15,66722,K-9,15,4.5,Each,Novelty Items
+20,DBA joke mug   you might be a DBA if -White,NULL,1,13,19.44,0.15,66722,K-9,15,4.5,Each,Mugs
+20,DBA joke mug  you might be a DBA if -White,NULL,1,13,19.44,0.15,66722,K-9,15,4.5,Each,Computing Novelties
+21,DBA joke mug  you might be a DBA if -Black,NULL,1,13,19.44,0.15,68683,K-9,15,4.5,Each,Novelty Items
+21,DBA joke mug  you might be a DBA if -Black,NULL,1,13,19.44,0.15,68683,K-9,15,4.5,Each,Mugs
+21,DBA joke mug  you might be a DBA if -Black,NULL,1,13,19.44,0.15,68683,K-9,15,4.5,Each,Computing Novelties
+22,DBA joke mug  it depends -White,NULL,1,13,19.44,0.15,72747,K-9,15,4.5,Each,Novelty Items
+22,DBA joke mug  it depends -White,NULL,1,13,19.44,0.15,72747,K-9,15,4.5,Each,Mugs
+22,DBA joke mug  it depends -White,NULL,1,13,19.44,0.15,72747,K-9,15,4.5,Each,Computing Novelties
+23,DBA joke mug  it depends -Black,NULL,1,13,19.44,0.15,56283,K-9,15,4.5,Each,Novelty Items
+23,DBA joke mug  it depends -Black,NULL,1,13,19.44,0.15,56283,K-9,15,4.5,Each,Mugs
+23,DBA joke mug  it depends -Black,NULL,1,13,19.44,0.15,56283,K-9,15,4.5,Each,Computing Novelties
+24,DBA joke mug  I will get you in order -White,NULL,1,13,19.44,0.15,57083,K-9,15,4.5,Each,Novelty Items
+24,DBA joke mug  I will get you in order -White,NULL,1,13,19.44,0.15,57083,K-9,15,4.5,Each,Mugs
+24,DBA joke mug  I will get you in order -White,NULL,1,13,19.44,0.15,57083,K-9,15,4.5,Each,Computing Novelties
+25,DBA joke mug  I will get you in order -Black,NULL,1,13,19.44,0.15,47106,K-9,15,4.5,Each,Novelty Items
+25,DBA joke mug  I will get you in order -Black,NULL,1,13,19.44,0.15,47106,K-9,15,4.5,Each,Mugs
+25,DBA joke mug  I will get you in order -Black,NULL,1,13,19.44,0.15,47106,K-9,15,4.5,Each,Computing Novelties
+26,DBA joke mug  SELECT caffeine FROM mug White,NULL,1,13,19.44,0.15,61071,K-9,15,4.5,Each,Novelty Items
+26,DBA joke mug  SELECT caffeine FROM mug White,NULL,1,13,19.44,0.15,61071,K-9,15,4.5,Each,Mugs
+26,DBA joke mug  SELECT caffeine FROM mug White,NULL,1,13,19.44,0.15,61071,K-9,15,4.5,Each,Computing Novelties
+27,DBA joke mug  SELECT caffeine FROM mug Black,NULL,1,13,19.44,0.15,47747,K-9,15,4.5,Each,Novelty Items
+27,DBA joke mug  SELECT caffeine FROM mug Black,NULL,1,13,19.44,0.15,47747,K-9,15,4.5,Each,Mugs
+27,DBA joke mug  SELECT caffeine FROM mug Black,NULL,1,13,19.44,0.15,47747,K-9,15,4.5,Each,Computing Novelties
+28,DBA joke mug  two types of DBAs -White,NULL,1,13,19.44,0.15,53851,K-9,15,4.5,Each,Novelty Items
+28,DBA joke mug  two types of DBAs -White,NULL,1,13,19.44,0.15,53851,K-9,15,4.5,Each,Mugs
+28,DBA joke mug  two types of DBAs -White,NULL,1,13,19.44,0.15,53851,K-9,15,4.5,Each,Computing Novelties
+29,DBA joke mug  two types of DBAs -Black,NULL,1,13,19.44,0.15,80978,K-9,15,4.5,Each,Novelty Items
+29,DBA joke mug  two types of DBAs -Black,NULL,1,13,19.44,0.15,80978,K-9,15,4.5,Each,Mugs
+29,DBA joke mug  two types of DBAs -Black,NULL,1,13,19.44,0.15,80978,K-9,15,4.5,Each,Computing Novelties
+30,Developer joke mug  Oct 31 = Dec 25 -White,NULL,1,13,19.44,0.15,49248,K-9,15,4.5,Each,Novelty Items
+30,Developer joke mug  Oct 31 = Dec 25 -White,NULL,1,13,19.44,0.15,49248,K-9,15,4.5,Each,Mugs
+30,Developer joke mug  Oct 31 = Dec 25 -White,NULL,1,13,19.44,0.15,49248,K-9,15,4.5,Each,Computing Novelties
+31,Developer joke mug  Oct 31 = Dec 25 -Black,NULL,1,13,19.44,0.15,79604,K-9,15,4.5,Each,Novelty Items
+31,Developer joke mug  Oct 31 = Dec 25 -Black,NULL,1,13,19.44,0.15,79604,K-9,15,4.5,Each,Mugs
+31,Developer joke mug  Oct 31 = Dec 25 -Black,NULL,1,13,19.44,0.15,79604,K-9,15,4.5,Each,Computing Novelties
+32,Developer joke mug  that's a hardware problem -White,NULL,1,13,19.44,0.15,47512,K-9,15,4.5,Each,Novelty Items
+32,Developer joke mug  that's a hardware problem -White,NULL,1,13,19.44,0.15,47512,K-9,15,4.5,Each,Mugs
+32,Developer joke mug  that's a hardware problem -White,NULL,1,13,19.44,0.15,47512,K-9,15,4.5,Each,Computing Novelties
+33,Developer joke mug  that's a hardware problem -Black,NULL,1,13,19.44,0.15,60005,K-9,15,4.5,Each,Novelty Items
+33,Developer joke mug  that's a hardware problem -Black,NULL,1,13,19.44,0.15,60005,K-9,15,4.5,Each,Mugs
+33,Developer joke mug  that's a hardware problem -Black,NULL,1,13,19.44,0.15,60005,K-9,15,4.5,Each,Computing Novelties
+34,Developer joke mug  fun was unexpected at this time -White,NULL,1,13,19.44,0.15,65583,K-9,15,4.5,Each,Novelty Items
+34,Developer joke mug  fun was unexpected at this time -White,NULL,1,13,19.44,0.15,65583,K-9,15,4.5,Each,Mugs
+34,Developer joke mug  fun was unexpected at this time -White,NULL,1,13,19.44,0.15,65583,K-9,15,4.5,Each,Computing Novelties
+35,Developer joke mug  fun was unexpected at this time -Black,NULL,1,13,19.44,0.15,75803,K-9,15,4.5,Each,Novelty Items
+35,Developer joke mug  fun was unexpected at this time -Black,NULL,1,13,19.44,0.15,75803,K-9,15,4.5,Each,Mugs
+35,Developer joke mug  fun was unexpected at this time -Black,NULL,1,13,19.44,0.15,75803,K-9,15,4.5,Each,Computing Novelties
+36,Developer joke mug  when your hammer is C++ -White,NULL,1,13,19.44,0.15,49459,K-9,15,4.5,Each,Novelty Items
+36,Developer joke mug  when your hammer is C++ -White,NULL,1,13,19.44,0.15,49459,K-9,15,4.5,Each,Mugs
+36,Developer joke mug  when your hammer is C++ -White,NULL,1,13,19.44,0.15,49459,K-9,15,4.5,Each,Computing Novelties
+37,Developer joke mug  when your hammer is C++ -Black,NULL,1,13,19.44,0.15,61318,K-9,15,4.5,Each,Novelty Items
+37,Developer joke mug  when your hammer is C++ -Black,NULL,1,13,19.44,0.15,61318,K-9,15,4.5,Each,Mugs
+37,Developer joke mug  when your hammer is C++ -Black,NULL,1,13,19.44,0.15,61318,K-9,15,4.5,Each,Computing Novelties
+38,Developer joke mug  inheritance is the OO way to become wealthy -White,NULL,1,13,19.44,0.15,58431,K-9,15,4.5,Each,Novelty Items
+38,Developer joke mug  inheritance is the OO way to become wealthy -White,NULL,1,13,19.44,0.15,58431,K-9,15,4.5,Each,Mugs
+38,Developer joke mug  inheritance is the OO way to become wealthy -White,NULL,1,13,19.44,0.15,58431,K-9,15,4.5,Each,Computing Novelties
+39,Developer joke mug  inheritance is the OO way to become wealthy -Black,NULL,1,13,19.44,0.15,66353,K-9,15,4.5,Each,Novelty Items
+39,Developer joke mug  inheritance is the OO way to become wealthy -Black,NULL,1,13,19.44,0.15,66353,K-9,15,4.5,Each,Mugs
+39,Developer joke mug  inheritance is the OO way to become wealthy -Black,NULL,1,13,19.44,0.15,66353,K-9,15,4.5,Each,Computing Novelties
+40,"Developer joke mug  hip, hip, array -White",NULL,1,13,19.44,0.15,82969,K-9,15,4.5,Each,Novelty Items
+40,"Developer joke mug  hip, hip, array -White",NULL,1,13,19.44,0.15,82969,K-9,15,4.5,Each,Mugs
+40,"Developer joke mug  hip, hip, array -White",NULL,1,13,19.44,0.15,82969,K-9,15,4.5,Each,Computing Novelties
+41,"Developer joke mug  hip, hip, array -Black",NULL,1,13,19.44,0.15,79138,K-9,15,4.5,Each,Novelty Items
+41,"Developer joke mug  hip, hip, array -Black",NULL,1,13,19.44,0.15,79138,K-9,15,4.5,Each,Mugs
+41,"Developer joke mug  hip, hip, array -Black",NULL,1,13,19.44,0.15,79138,K-9,15,4.5,Each,Computing Novelties
+42,Developer joke mug  understanding recursion requires understanding recursion -White,NULL,1,13,19.44,0.15,61075,K-9,15,4.5,Each,Novelty Items
+42,Developer joke mug  understanding recursion requires understanding recursion -White,NULL,1,13,19.44,0.15,61075,K-9,15,4.5,Each,Mugs
+42,Developer joke mug  understanding recursion requires understanding recursion -White,NULL,1,13,19.44,0.15,61075,K-9,15,4.5,Each,Computing Novelties
+43,Developer joke mug  understanding recursion requires understanding recursion -Black,NULL,1,13,19.44,0.15,59174,K-9,15,4.5,Each,Novelty Items
+43,Developer joke mug  understanding recursion requires understanding recursion -Black,NULL,1,13,19.44,0.15,59174,K-9,15,4.5,Each,Mugs
+43,Developer joke mug  understanding recursion requires understanding recursion -Black,NULL,1,13,19.44,0.15,59174,K-9,15,4.5,Each,Computing Novelties
+44,Developer joke mug  there are 10 types of people in the world -White,NULL,1,13,19.44,0.15,76861,K-9,15,4.5,Each,Novelty Items
+44,Developer joke mug  there are 10 types of people in the world -White,NULL,1,13,19.44,0.15,76861,K-9,15,4.5,Each,Mugs
+44,Developer joke mug  there are 10 types of people in the world -White,NULL,1,13,19.44,0.15,76861,K-9,15,4.5,Each,Computing Novelties
+45,Developer joke mug  there are 10 types of people in the world -Black,NULL,1,13,19.44,0.15,54430,K-9,15,4.5,Each,Novelty Items
+45,Developer joke mug  there are 10 types of people in the world -Black,NULL,1,13,19.44,0.15,54430,K-9,15,4.5,Each,Mugs
+45,Developer joke mug  there are 10 types of people in the world -Black,NULL,1,13,19.44,0.15,54430,K-9,15,4.5,Each,Computing Novelties
+46,Developer joke mug  a foo walks into a bar -White,NULL,1,13,19.44,0.15,85243,K-9,15,4.5,Each,Novelty Items
+46,Developer joke mug  a foo walks into a bar -White,NULL,1,13,19.44,0.15,85243,K-9,15,4.5,Each,Mugs
+46,Developer joke mug  a foo walks into a bar -White,NULL,1,13,19.44,0.15,85243,K-9,15,4.5,Each,Computing Novelties
+47,Developer joke mug  a foo walks into a bar -Black,NULL,1,13,19.44,0.15,57652,K-9,15,4.5,Each,Novelty Items
+47,Developer joke mug  a foo walks into a bar -Black,NULL,1,13,19.44,0.15,57652,K-9,15,4.5,Each,Mugs
+47,Developer joke mug  a foo walks into a bar -Black,NULL,1,13,19.44,0.15,57652,K-9,15,4.5,Each,Computing Novelties
+48,Developer joke mug  this code was generated by a tool -White,NULL,1,13,19.44,0.15,65779,K-9,15,4.5,Each,Novelty Items
+48,Developer joke mug  this code was generated by a tool -White,NULL,1,13,19.44,0.15,65779,K-9,15,4.5,Each,Mugs
+48,Developer joke mug  this code was generated by a tool -White,NULL,1,13,19.44,0.15,65779,K-9,15,4.5,Each,Computing Novelties
+49,Developer joke mug  this code was generated by a tool -Black,NULL,1,13,19.44,0.15,51545,K-9,15,4.5,Each,Novelty Items
+49,Developer joke mug  this code was generated by a tool -Black,NULL,1,13,19.44,0.15,51545,K-9,15,4.5,Each,Mugs
+49,Developer joke mug  this code was generated by a tool -Black,NULL,1,13,19.44,0.15,51545,K-9,15,4.5,Each,Computing Novelties
+50,Developer joke mug  old C developers never die -White,NULL,1,13,19.44,0.15,81085,K-9,15,4.5,Each,Novelty Items
+50,Developer joke mug  old C developers never die -White,NULL,1,13,19.44,0.15,81085,K-9,15,4.5,Each,Mugs
+50,Developer joke mug  old C developers never die -White,NULL,1,13,19.44,0.15,81085,K-9,15,4.5,Each,Computing Novelties
+51,Developer joke mug  old C developers never die -Black,NULL,1,13,19.44,0.15,47656,K-9,15,4.5,Each,Novelty Items
+51,Developer joke mug  old C developers never die -Black,NULL,1,13,19.44,0.15,47656,K-9,15,4.5,Each,Mugs
+51,Developer joke mug  old C developers never die -Black,NULL,1,13,19.44,0.15,47656,K-9,15,4.5,Each,Computing Novelties
+52,IT joke mug  keyboard not found … press F1 to continue -White,NULL,1,13,19.44,0.15,51289,K-9,15,4.5,Each,Novelty Items
+52,IT joke mug  keyboard not found … press F1 to continue -White,NULL,1,13,19.44,0.15,51289,K-9,15,4.5,Each,Mugs
+52,IT joke mug  keyboard not found … press F1 to continue -White,NULL,1,13,19.44,0.15,51289,K-9,15,4.5,Each,Computing Novelties
+53,IT joke mug  keyboard not found … press F1 to continue -Black,NULL,1,13,19.44,0.15,58061,K-9,15,4.5,Each,Novelty Items
+53,IT joke mug  keyboard not found … press F1 to continue -Black,NULL,1,13,19.44,0.15,58061,K-9,15,4.5,Each,Mugs
+53,IT joke mug  keyboard not found … press F1 to continue -Black,NULL,1,13,19.44,0.15,58061,K-9,15,4.5,Each,Computing Novelties
+54,IT joke mug  that behavior is by design -White,NULL,1,13,19.44,0.15,95786,K-9,15,4.5,Each,Novelty Items
+54,IT joke mug  that behavior is by design -White,NULL,1,13,19.44,0.15,95786,K-9,15,4.5,Each,Mugs
+54,IT joke mug  that behavior is by design -White,NULL,1,13,19.44,0.15,95786,K-9,15,4.5,Each,Computing Novelties
+55,IT joke mug  that behavior is by design -Black,NULL,1,13,19.44,0.15,83130,K-9,15,4.5,Each,Novelty Items
+55,IT joke mug  that behavior is by design -Black,NULL,1,13,19.44,0.15,83130,K-9,15,4.5,Each,Mugs
+55,IT joke mug  that behavior is by design -Black,NULL,1,13,19.44,0.15,83130,K-9,15,4.5,Each,Computing Novelties
+56,IT joke mug  hardware: part of the computer that can be kicked -White,NULL,1,13,19.44,0.15,59403,K-9,15,4.5,Each,Novelty Items
+56,IT joke mug  hardware: part of the computer that can be kicked -White,NULL,1,13,19.44,0.15,59403,K-9,15,4.5,Each,Mugs
+56,IT joke mug  hardware: part of the computer that can be kicked -White,NULL,1,13,19.44,0.15,59403,K-9,15,4.5,Each,Computing Novelties
+57,IT joke mug  hardware: part of the computer that can be kicked -Black,NULL,1,13,19.44,0.15,72743,K-9,15,4.5,Each,Novelty Items
+57,IT joke mug  hardware: part of the computer that can be kicked -Black,NULL,1,13,19.44,0.15,72743,K-9,15,4.5,Each,Mugs
+57,IT joke mug  hardware: part of the computer that can be kicked -Black,NULL,1,13,19.44,0.15,72743,K-9,15,4.5,Each,Computing Novelties
+58,RC toy sedan car with remote control -Black 1/50 scale,1/50 scale,1,25,37.38,1.5,174043,J-12,20,12.5,Each,Novelty Items
+58,RC toy sedan car with remote control -Black 1/50 scale,1/50 scale,1,25,37.38,1.5,174043,J-12,20,12.5,Each,Toys
+59,RC toy sedan car with remote control -Red 1/50 scale,1/50 scale,1,25,37.38,1.5,190946,J-12,20,12.5,Each,Novelty Items
+59,RC toy sedan car with remote control -Red 1/50 scale,1/50 scale,1,25,37.38,1.5,190946,J-12,20,12.5,Each,Toys
+60,RC toy sedan car with remote control -Blue 1/50 scale,1/50 scale,1,25,37.38,1.5,165484,J-12,20,12.5,Each,Novelty Items
+60,RC toy sedan car with remote control -Blue 1/50 scale,1/50 scale,1,25,37.38,1.5,165484,J-12,20,12.5,Each,Toys
+61,RC toy sedan car with remote control -Green 1/50 scale,1/50 scale,1,25,37.38,1.5,163823,J-12,20,12.5,Each,Novelty Items
+61,RC toy sedan car with remote control -Green 1/50 scale,1/50 scale,1,25,37.38,1.5,163823,J-12,20,12.5,Each,Toys
+62,RC toy sedan car with remote control -Yellow 1/50 scale,1/50 scale,1,25,37.38,1.5,180856,J-12,20,12.5,Each,Novelty Items
+62,RC toy sedan car with remote control -Yellow 1/50 scale,1/50 scale,1,25,37.38,1.5,180856,J-12,20,12.5,Each,Toys
+63,RC toy sedan car with remote control -Pink 1/50 scale,1/50 scale,1,25,37.38,1.5,190886,J-12,20,12.5,Each,Novelty Items
+63,RC toy sedan car with remote control -Pink 1/50 scale,1/50 scale,1,25,37.38,1.5,190886,J-12,20,12.5,Each,Toys
+64,RC vintage American toy coupe with remote control -Red 1/50 scale,1/50 scale,1,30,44.85,1.7,213248,J-12,20,15,Each,Novelty Items
+64,RC vintage American toy coupe with remote control -Red 1/50 scale,1/50 scale,1,30,44.85,1.7,213248,J-12,20,15,Each,Toys
+65,RC vintage American toy coupe with remote control -Black 1/50 scale,1/50 scale,1,30,44.85,1.7,164183,J-12,20,15,Each,Novelty Items
+65,RC vintage American toy coupe with remote control -Black 1/50 scale,1/50 scale,1,30,44.85,1.7,164183,J-12,20,15,Each,Toys
+66,RC big wheel monster truck with remote control -Black 1/50 scale,1/50 scale,1,45,67.28,1.8,172525,J-12,20,15.5,Each,Novelty Items
+66,RC big wheel monster truck with remote control -Black 1/50 scale,1/50 scale,1,45,67.28,1.8,172525,J-12,20,15.5,Each,Toys
+67,Ride on toy sedan car -Black 1/12 scale,1/12 scale,1,230,343.85,15,93588,J-13,10,145,Each,Novelty Items
+67,Ride on toy sedan car -Black 1/12 scale,1/12 scale,1,230,343.85,15,93588,J-13,10,145,Each,Toys
+68,Ride on toy sedan car -Red 1/12 scale,1/12 scale,1,230,343.85,15,90953,J-13,10,145,Each,Novelty Items
+68,Ride on toy sedan car -Red 1/12 scale,1/12 scale,1,230,343.85,15,90953,J-13,10,145,Each,Toys
+69,Ride on toy sedan car -Blue 1/12 scale,1/12 scale,1,230,343.85,15,96791,J-13,10,145,Each,Novelty Items
+69,Ride on toy sedan car -Blue 1/12 scale,1/12 scale,1,230,343.85,15,96791,J-13,10,145,Each,Toys
+70,Ride on toy sedan car -Green 1/12 scale,1/12 scale,1,230,343.85,15,83287,J-13,10,145,Each,Novelty Items
+70,Ride on toy sedan car -Green 1/12 scale,1/12 scale,1,230,343.85,15,83287,J-13,10,145,Each,Toys
+71,Ride on toy sedan car -Yellow 1/12 scale,1/12 scale,1,230,343.85,15,112020,J-13,10,145,Each,Novelty Items
+71,Ride on toy sedan car -Yellow 1/12 scale,1/12 scale,1,230,343.85,15,112020,J-13,10,145,Each,Toys
+72,Ride on toy sedan car -Pink 1/12 scale,1/12 scale,1,230,343.85,15,116147,J-13,10,145,Each,Novelty Items
+72,Ride on toy sedan car -Pink 1/12 scale,1/12 scale,1,230,343.85,15,116147,J-13,10,145,Each,Toys
+73,Ride on vintage American toy coupe -Red 1/12 scale,1/12 scale,1,285,426.08,18,106477,J-13,10,155,Each,Novelty Items
+73,Ride on vintage American toy coupe -Red 1/12 scale,1/12 scale,1,285,426.08,18,106477,J-13,10,155,Each,Toys
+74,Ride on vintage American toy coupe -Black 1/12 scale,1/12 scale,1,285,426.08,18,80341,J-13,10,155,Each,Novelty Items
+74,Ride on vintage American toy coupe -Black 1/12 scale,1/12 scale,1,285,426.08,18,80341,J-13,10,155,Each,Toys
+75,Ride on big wheel monster truck -Black 1/12 scale,1/12 scale,1,345,515.78,21,80823,J-14,10,205,Each,Novelty Items
+75,Ride on big wheel monster truck -Black 1/12 scale,1/12 scale,1,345,515.78,21,80823,J-14,10,205,Each,Toys
+76,The Gu red shirt XML tag tshirt -White 3XS,3XS,12,18,26.91,0.25,129929,K-1,5,7,Carton,Clothing
+76,The Gu red shirt XML tag tshirt -White 3XS,3XS,12,18,26.91,0.25,129929,K-1,5,7,Carton,tshirts
+76,The Gu red shirt XML tag tshirt -White 3XS,3XS,12,18,26.91,0.25,129929,K-1,5,7,Carton,Computing Novelties
+77,The Gu red shirt XML tag tshirt -White XXS,XXS,12,18,26.91,0.25,27,K-1,5,7,Carton,Clothing
+77,The Gu red shirt XML tag tshirt -White XXS,XXS,12,18,26.91,0.25,27,K-1,5,7,Carton,tshirts
+77,The Gu red shirt XML tag tshirt -White XXS,XXS,12,18,26.91,0.25,27,K-1,5,7,Carton,Computing Novelties
+78,The Gu red shirt XML tag tshirt -White XS,XS,12,18,26.91,0.25,16,K-1,5,7,Carton,Clothing
+78,The Gu red shirt XML tag tshirt -White XS,XS,12,18,26.91,0.25,16,K-1,5,7,Carton,tshirts
+78,The Gu red shirt XML tag tshirt -White XS,XS,12,18,26.91,0.25,16,K-1,5,7,Carton,Computing Novelties
+79,The Gu red shirt XML tag tshirt -White S,S,12,18,26.91,0.3,24895,K-1,5,7,Carton,Clothing
+79,The Gu red shirt XML tag tshirt -White S,S,12,18,26.91,0.3,24895,K-1,5,7,Carton,tshirts
+79,The Gu red shirt XML tag tshirt -White S,S,12,18,26.91,0.3,24895,K-1,5,7,Carton,Computing Novelties
+80,The Gu red shirt XML tag tshirt -White M,M,12,18,26.91,0.35,20,K-1,5,7,Carton,Clothing
+80,The Gu red shirt XML tag tshirt -White M,M,12,18,26.91,0.35,20,K-1,5,7,Carton,tshirts
+80,The Gu red shirt XML tag tshirt -White M,M,12,18,26.91,0.35,20,K-1,5,7,Carton,Computing Novelties
+81,The Gu red shirt XML tag tshirt -White L,L,12,18,26.91,0.35,106773,K-1,5,7,Carton,Clothing
+81,The Gu red shirt XML tag tshirt -White L,L,12,18,26.91,0.35,106773,K-1,5,7,Carton,tshirts
+81,The Gu red shirt XML tag tshirt -White L,L,12,18,26.91,0.35,106773,K-1,5,7,Carton,Computing Novelties
+82,The Gu red shirt XML tag tshirt -White XL,XL,12,18,26.91,0.35,6706,K-1,5,7.5,Carton,Clothing
+82,The Gu red shirt XML tag tshirt -White XL,XL,12,18,26.91,0.35,6706,K-1,5,7.5,Carton,tshirts
+82,The Gu red shirt XML tag tshirt -White XL,XL,12,18,26.91,0.35,6706,K-1,5,7.5,Carton,Computing Novelties
+83,The Gu red shirt XML tag tshirt -White XXL,XXL,12,18,26.91,0.4,224185,K-1,5,7.5,Carton,Clothing
+83,The Gu red shirt XML tag tshirt -White XXL,XXL,12,18,26.91,0.4,224185,K-1,5,7.5,Carton,tshirts
+83,The Gu red shirt XML tag tshirt -White XXL,XXL,12,18,26.91,0.4,224185,K-1,5,7.5,Carton,Computing Novelties
+84,The Gu red shirt XML tag tshirt -White 3XL,3XL,12,18,26.91,0.4,5439,K-1,5,8,Carton,Clothing
+84,The Gu red shirt XML tag tshirt -White 3XL,3XL,12,18,26.91,0.4,5439,K-1,5,8,Carton,tshirts
+84,The Gu red shirt XML tag tshirt -White 3XL,3XL,12,18,26.91,0.4,5439,K-1,5,8,Carton,Computing Novelties
+85,The Gu red shirt XML tag tshirt -White 4XL,4XL,12,18,26.91,0.4,56210,K-1,5,8,Carton,Clothing
+85,The Gu red shirt XML tag tshirt -White 4XL,4XL,12,18,26.91,0.4,56210,K-1,5,8,Carton,tshirts
+85,The Gu red shirt XML tag tshirt -White 4XL,4XL,12,18,26.91,0.4,56210,K-1,5,8,Carton,Computing Novelties
+86,The Gu red shirt XML tag tshirt -White 5XL,5XL,12,18,26.91,0.4,3,K-1,5,8,Carton,Clothing
+86,The Gu red shirt XML tag tshirt -White 5XL,5XL,12,18,26.91,0.4,3,K-1,5,8,Carton,tshirts
+86,The Gu red shirt XML tag tshirt -White 5XL,5XL,12,18,26.91,0.4,3,K-1,5,8,Carton,Computing Novelties
+87,The Gu red shirt XML tag tshirt -White 6XL,6XL,12,18,26.91,0.4,53392,K-1,5,8,Carton,Clothing
+87,The Gu red shirt XML tag tshirt -White 6XL,6XL,12,18,26.91,0.4,53392,K-1,5,8,Carton,tshirts
+87,The Gu red shirt XML tag tshirt -White 6XL,6XL,12,18,26.91,0.4,53392,K-1,5,8,Carton,Computing Novelties
+88,The Gu red shirt XML tag tshirt -White 7XL,7XL,12,18,26.91,0.45,148350,K-1,5,8.5,Carton,Clothing
+88,The Gu red shirt XML tag tshirt -White 7XL,7XL,12,18,26.91,0.45,148350,K-1,5,8.5,Carton,tshirts
+88,The Gu red shirt XML tag tshirt -White 7XL,7XL,12,18,26.91,0.45,148350,K-1,5,8.5,Carton,Computing Novelties
+89,The Gu red shirt XML tag tshirt -Black 3XS,3XS,12,18,26.91,0.25,81703,K-2,5,7,Carton,Clothing
+89,The Gu red shirt XML tag tshirt -Black 3XS,3XS,12,18,26.91,0.25,81703,K-2,5,7,Carton,tshirts
+89,The Gu red shirt XML tag tshirt -Black 3XS,3XS,12,18,26.91,0.25,81703,K-2,5,7,Carton,Computing Novelties
+90,The Gu red shirt XML tag tshirt -Black XXS,XXS,12,18,26.91,0.25,75663,K-2,5,7,Carton,Clothing
+90,The Gu red shirt XML tag tshirt -Black XXS,XXS,12,18,26.91,0.25,75663,K-2,5,7,Carton,tshirts
+90,The Gu red shirt XML tag tshirt -Black XXS,XXS,12,18,26.91,0.25,75663,K-2,5,7,Carton,Computing Novelties
+91,The Gu red shirt XML tag tshirt -Black XS,XS,12,18,26.91,0.25,76373,K-2,5,7,Carton,Clothing
+91,The Gu red shirt XML tag tshirt -Black XS,XS,12,18,26.91,0.25,76373,K-2,5,7,Carton,tshirts
+91,The Gu red shirt XML tag tshirt -Black XS,XS,12,18,26.91,0.25,76373,K-2,5,7,Carton,Computing Novelties
+92,The Gu red shirt XML tag tshirt -Black S,S,12,18,26.91,0.3,82253,K-2,5,7,Carton,Clothing
+92,The Gu red shirt XML tag tshirt -Black S,S,12,18,26.91,0.3,82253,K-2,5,7,Carton,tshirts
+92,The Gu red shirt XML tag tshirt -Black S,S,12,18,26.91,0.3,82253,K-2,5,7,Carton,Computing Novelties
+93,The Gu red shirt XML tag tshirt -Black M,M,12,18,26.91,0.35,277914,K-2,5,7,Carton,Clothing
+93,The Gu red shirt XML tag tshirt -Black M,M,12,18,26.91,0.35,277914,K-2,5,7,Carton,tshirts
+93,The Gu red shirt XML tag tshirt -Black M,M,12,18,26.91,0.35,277914,K-2,5,7,Carton,Computing Novelties
+94,The Gu red shirt XML tag tshirt -Black L,L,12,18,26.91,0.35,157255,K-2,5,7,Carton,Clothing
+94,The Gu red shirt XML tag tshirt -Black L,L,12,18,26.91,0.35,157255,K-2,5,7,Carton,tshirts
+94,The Gu red shirt XML tag tshirt -Black L,L,12,18,26.91,0.35,157255,K-2,5,7,Carton,Computing Novelties
+95,The Gu red shirt XML tag tshirt -Black XL,XL,12,18,26.91,0.35,48,K-2,5,7.5,Carton,Clothing
+95,The Gu red shirt XML tag tshirt -Black XL,XL,12,18,26.91,0.35,48,K-2,5,7.5,Carton,tshirts
+95,The Gu red shirt XML tag tshirt -Black XL,XL,12,18,26.91,0.35,48,K-2,5,7.5,Carton,Computing Novelties
+96,The Gu red shirt XML tag tshirt -Black XXL,XXL,12,18,26.91,0.4,402445,K-2,5,7.5,Carton,Clothing
+96,The Gu red shirt XML tag tshirt -Black XXL,XXL,12,18,26.91,0.4,402445,K-2,5,7.5,Carton,tshirts
+96,The Gu red shirt XML tag tshirt -Black XXL,XXL,12,18,26.91,0.4,402445,K-2,5,7.5,Carton,Computing Novelties
+97,The Gu red shirt XML tag tshirt -Black 3XL,3XL,12,18,26.91,0.4,525771,K-2,5,8,Carton,Clothing
+97,The Gu red shirt XML tag tshirt -Black 3XL,3XL,12,18,26.91,0.4,525771,K-2,5,8,Carton,tshirts
+97,The Gu red shirt XML tag tshirt -Black 3XL,3XL,12,18,26.91,0.4,525771,K-2,5,8,Carton,Computing Novelties
+98,The Gu red shirt XML tag tshirt -Black 4XL,4XL,12,18,26.91,0.4,25,K-2,5,8,Carton,Clothing
+98,The Gu red shirt XML tag tshirt -Black 4XL,4XL,12,18,26.91,0.4,25,K-2,5,8,Carton,tshirts
+98,The Gu red shirt XML tag tshirt -Black 4XL,4XL,12,18,26.91,0.4,25,K-2,5,8,Carton,Computing Novelties
+99,The Gu red shirt XML tag tshirt -Black 5XL,5XL,12,18,26.91,0.4,282132,K-2,5,8,Carton,Clothing
+99,The Gu red shirt XML tag tshirt -Black 5XL,5XL,12,18,26.91,0.4,282132,K-2,5,8,Carton,tshirts
+99,The Gu red shirt XML tag tshirt -Black 5XL,5XL,12,18,26.91,0.4,282132,K-2,5,8,Carton,Computing Novelties
+100,The Gu red shirt XML tag tshirt -Black 6XL,6XL,12,18,26.91,0.4,277863,K-2,5,8,Carton,Clothing
+100,The Gu red shirt XML tag tshirt -Black 6XL,6XL,12,18,26.91,0.4,277863,K-2,5,8,Carton,tshirts
+100,The Gu red shirt XML tag tshirt -Black 6XL,6XL,12,18,26.91,0.4,277863,K-2,5,8,Carton,Computing Novelties
+101,The Gu red shirt XML tag tshirt -Black 7XL,7XL,12,18,26.91,0.45,51036,K-2,5,8.5,Carton,Clothing
+101,The Gu red shirt XML tag tshirt -Black 7XL,7XL,12,18,26.91,0.45,51036,K-2,5,8.5,Carton,tshirts
+101,The Gu red shirt XML tag tshirt -Black 7XL,7XL,12,18,26.91,0.45,51036,K-2,5,8.5,Carton,Computing Novelties
+102,Alien officer hoodie -Black XL,XL,1,35,52.33,0.4,6702,K-3,5,17,Each,Clothing
+103,Alien officer hoodie -Black XXL,XXL,1,35,52.33,0.4,13020,K-3,5,17,Each,Clothing
+104,Alien officer hoodie -Black 3XL,3XL,1,35,52.33,0.4,14596,K-3,5,17,Each,Clothing
+105,Alien officer hoodie -Black 4XL,4XL,1,35,52.33,0.4,23213,K-3,5,17,Each,Clothing
+106,Alien officer hoodie -Black 5XL,5XL,1,35,52.33,0.4,10874,K-3,5,17,Each,Clothing
+107,Superhero action jacket -Blue 3XS,3XS,1,25,37.38,0.3,10843,K-4,5,19,Each,Clothing
+108,Superhero action jacket -Blue XXS,XXS,1,25,37.38,0.3,6342,K-4,5,19,Each,Clothing
+109,Superhero action jacket -Blue XS,XS,1,25,37.38,0.3,27052,K-4,5,19,Each,Clothing
+110,Superhero action jacket -Blue S,S,1,25,37.38,0.3,19426,K-4,5,19,Each,Clothing
+111,Superhero action jacket -Blue M,M,1,30,44.85,0.35,8498,K-4,5,22,Each,Clothing
+112,Superhero action jacket -Blue L,L,1,30,44.85,0.35,11076,K-4,5,22,Each,Clothing
+113,Superhero action jacket -Blue XL,XL,1,30,44.85,0.35,7057,K-4,5,22,Each,Clothing
+114,Superhero action jacket -Blue XXL,XXL,1,30,44.85,0.35,6971,K-4,5,22,Each,Clothing
+115,Superhero action jacket -Blue 3XL,3XL,1,34,50.83,0.4,16909,K-4,5,24,Each,Clothing
+116,Superhero action jacket -Blue 4XL,4XL,1,34,50.83,0.4,10988,K-4,5,24,Each,Clothing
+117,Superhero action jacket -Blue 5XL,5XL,1,34,50.83,0.4,14824,K-4,5,24,Each,Clothing
+118,Dinosaur battery powered slippers -Green S,S,1,32,47.84,0.35,58218,K-5,10,8,Each,Clothing
+118,Dinosaur battery powered slippers -Green S,S,1,32,47.84,0.35,58218,K-5,10,8,Each,Furry Footwear
+119,Dinosaur battery powered slippers -Green M,M,1,32,47.84,0.35,49638,K-5,10,8,Each,Clothing
+119,Dinosaur battery powered slippers -Green M,M,1,32,47.84,0.35,49638,K-5,10,8,Each,Furry Footwear
+120,Dinosaur battery powered slippers -Green L,L,1,32,47.84,0.35,68104,K-5,10,8,Each,Clothing
+120,Dinosaur battery powered slippers -Green L,L,1,32,47.84,0.35,68104,K-5,10,8,Each,Furry Footwear
+121,Dinosaur battery powered slippers -Green XL,XL,1,32,47.84,0.4,39597,K-5,10,8.5,Each,Clothing
+121,Dinosaur battery powered slippers -Green XL,XL,1,32,47.84,0.4,39597,K-5,10,8.5,Each,Furry Footwear
+122,Ogre battery powered slippers -Green S,S,1,32,47.84,0.35,38905,K-5,10,8,Each,Clothing
+122,Ogre battery powered slippers -Green S,S,1,32,47.84,0.35,38905,K-5,10,8,Each,Furry Footwear
+123,Ogre battery powered slippers -Green M,M,1,32,47.84,0.35,45839,K-5,10,8,Each,Clothing
+123,Ogre battery powered slippers -Green M,M,1,32,47.84,0.35,45839,K-5,10,8,Each,Furry Footwear
+124,Ogre battery powered slippers -Green L,L,1,32,47.84,0.35,40953,K-5,10,8,Each,Clothing
+124,Ogre battery powered slippers -Green L,L,1,32,47.84,0.35,40953,K-5,10,8,Each,Furry Footwear
+125,Ogre battery powered slippers -Green XL,XL,1,32,47.84,0.4,39732,K-5,10,8.5,Each,Clothing
+125,Ogre battery powered slippers -Green XL,XL,1,32,47.84,0.4,39732,K-5,10,8.5,Each,Furry Footwear
+126,Plush shark slippers -Gray S,S,1,32,47.84,0.35,44071,K-5,10,8,Each,Clothing
+126,Plush shark slippers -Gray S,S,1,32,47.84,0.35,44071,K-5,10,8,Each,Furry Footwear
+127,Plush shark slippers -Gray M,M,1,32,47.84,0.35,41393,K-5,10,8,Each,Clothing
+127,Plush shark slippers -Gray M,M,1,32,47.84,0.35,41393,K-5,10,8,Each,Furry Footwear
+128,Plush shark slippers -Gray L,L,1,32,47.84,0.35,64026,K-5,10,8,Each,Clothing
+128,Plush shark slippers -Gray L,L,1,32,47.84,0.35,64026,K-5,10,8,Each,Furry Footwear
+129,Plush shark slippers -Gray XL,XL,1,32,47.84,0.4,49855,K-5,10,8.5,Each,Clothing
+129,Plush shark slippers -Gray XL,XL,1,32,47.84,0.4,49855,K-5,10,8.5,Each,Furry Footwear
+130,Furry gorilla with big eyes slippers -Black S,S,1,32,47.84,0.35,60311,K-5,10,8,Each,Clothing
+130,Furry gorilla with big eyes slippers -Black S,S,1,32,47.84,0.35,60311,K-5,10,8,Each,Furry Footwear
+131,Furry gorilla with big eyes slippers -Black M,M,1,32,47.84,0.35,37392,K-5,10,8,Each,Clothing
+131,Furry gorilla with big eyes slippers -Black M,M,1,32,47.84,0.35,37392,K-5,10,8,Each,Furry Footwear
+132,Furry gorilla with big eyes slippers -Black L,L,1,32,47.84,0.35,43436,K-5,10,8,Each,Clothing
+132,Furry gorilla with big eyes slippers -Black L,L,1,32,47.84,0.35,43436,K-5,10,8,Each,Furry Footwear
+133,Furry gorilla with big eyes slippers -Black XL,XL,1,32,47.84,0.4,56220,K-5,10,8.5,Each,Clothing
+133,Furry gorilla with big eyes slippers -Black XL,XL,1,32,47.84,0.4,56220,K-5,10,8.5,Each,Furry Footwear
+134,Animal with big feet slippers -Brown S,S,1,32,47.84,0.35,41994,K-5,10,8,Each,Clothing
+134,Animal with big feet slippers -Brown S,S,1,32,47.84,0.35,41994,K-5,10,8,Each,Furry Footwear
+135,Animal with big feet slippers -Brown M,M,1,32,47.84,0.35,37481,K-5,10,8,Each,Clothing
+135,Animal with big feet slippers -Brown M,M,1,32,47.84,0.35,37481,K-5,10,8,Each,Furry Footwear
+136,Animal with big feet slippers -Brown L,L,1,32,47.84,0.35,39284,K-5,10,8,Each,Clothing
+136,Animal with big feet slippers -Brown L,L,1,32,47.84,0.35,39284,K-5,10,8,Each,Furry Footwear
+137,Animal with big feet slippers -Brown XL,XL,1,32,47.84,0.4,45624,K-5,10,8.5,Each,Clothing
+137,Animal with big feet slippers -Brown XL,XL,1,32,47.84,0.4,45624,K-5,10,8.5,Each,Furry Footwear
+138,Furry animal socks -Pink S,S,12,5,7.48,0.1,501745,K-6,20,1.5,Packet,Clothing
+138,Furry animal socks -Pink S,S,12,5,7.48,0.1,501745,K-6,20,1.5,Packet,Furry Footwear
+139,Furry animal socks -Pink M,M,12,5,7.48,0.1,126418,K-6,20,1.5,Packet,Clothing
+139,Furry animal socks -Pink M,M,12,5,7.48,0.1,126418,K-6,20,1.5,Packet,Furry Footwear
+140,Furry animal socks -Pink L,L,12,5,7.48,0.1,570360,K-6,20,1.5,Packet,Clothing
+140,Furry animal socks -Pink L,L,12,5,7.48,0.1,570360,K-6,20,1.5,Packet,Furry Footwear
+141,Furry animal socks -Pink XL,XL,12,5,7.48,0.1,328315,K-6,20,1.5,Packet,Clothing
+141,Furry animal socks -Pink XL,XL,12,5,7.48,0.1,328315,K-6,20,1.5,Packet,Furry Footwear
+142,Halloween zombie mask -Light Brown S,S,12,18,26.91,0.3,323812,K-7,12,19,Carton,Novelty Items
+142,Halloween zombie mask -Light Brown S,S,12,18,26.91,0.3,323812,K-7,12,19,Carton,Clothing
+143,Halloween zombie mask -Light Brown M,M,12,18,26.91,0.3,378187,K-7,12,19,Carton,Novelty Items
+143,Halloween zombie mask -Light Brown M,M,12,18,26.91,0.3,378187,K-7,12,19,Carton,Clothing
+144,Halloween zombie mask -Light Brown L,L,12,18,26.91,0.3,379166,K-7,12,19,Carton,Novelty Items
+144,Halloween zombie mask -Light Brown L,L,12,18,26.91,0.3,379166,K-7,12,19,Carton,Clothing
+145,Halloween zombie mask -Light Brown XL,XL,12,18,26.91,0.3,248519,K-7,12,19,Carton,Novelty Items
+145,Halloween zombie mask -Light Brown XL,XL,12,18,26.91,0.3,248519,K-7,12,19,Carton,Clothing
+146,Halloween skull mask -Gray S,S,12,18,26.91,0.3,327221,K-7,12,15,Carton,Novelty Items
+146,Halloween skull mask -Gray S,S,12,18,26.91,0.3,327221,K-7,12,15,Carton,Clothing
+147,Halloween skull mask -Gray M,M,12,18,26.91,0.3,354456,K-7,12,15,Carton,Novelty Items
+147,Halloween skull mask -Gray M,M,12,18,26.91,0.3,354456,K-7,12,15,Carton,Clothing
+148,Halloween skull mask -Gray L,L,12,18,26.91,0.3,274041,K-7,12,15,Carton,Novelty Items
+148,Halloween skull mask -Gray L,L,12,18,26.91,0.3,274041,K-7,12,15,Carton,Clothing
+149,Halloween skull mask -Gray XL,XL,12,18,26.91,0.3,229551,K-7,12,15,Carton,Novelty Items
+149,Halloween skull mask -Gray XL,XL,12,18,26.91,0.3,229551,K-7,12,15,Carton,Clothing
+150,Pack of 12 action figures -variety,NULL,1,16,23.92,0.25,31743,K-8,5,5.5,Packet,Toys
+151,Pack of 12 action figures -male,NULL,1,16,23.92,0.25,37881,K-8,5,5.5,Packet,Toys
+152,Pack of 12 action figures -female,NULL,1,16,23.92,0.25,31300,K-8,5,5.5,Packet,Toys
+153,Small sized bubblewrap roll 10m,10m,10,4.5,6.73,5,168635,D-1,20,2.2,Each,Packaging Materials
+154,Medium sized bubblewrap roll 20m,20m,10,20,29.9,6,105320,D-1,20,10,Each,Packaging Materials
+155,Large sized bubblewrap roll 50m,50m,10,24,35.88,10,440171,D-1,20,13,Each,Packaging Materials
+156,10 mm Double sided bubble wrap 10m,10m,10,15,22.43,5,172675,D-1,20,7.5,Each,Packaging Materials
+157,10 mm Double sided bubble wrap 20m,20m,10,30,44.85,6,46925,D-1,20,14,Each,Packaging Materials
+158,10 mm Double sided bubble wrap 50m,50m,10,105,156.98,10,26193,D-1,20,56,Each,Packaging Materials
+159,20 mm Double sided bubble wrap 10m,10m,10,18,26.91,5,48746,D-1,20,8,Each,Packaging Materials
+160,20 mm Double sided bubble wrap 20m,20m,10,33,49.34,6,250461,D-1,20,15,Each,Packaging Materials
+161,20 mm Double sided bubble wrap 50m,50m,10,108,161.46,10,188962,D-1,20,16,Each,Packaging Materials
+162,32 mm Double sided bubble wrap 10m,10m,10,22,32.89,5,269785,D-1,20,9.9,Each,Packaging Materials
+163,32 mm Double sided bubble wrap 20m,20m,10,37,55.32,6,108019,D-1,20,14,Each,Packaging Materials
+164,32 mm Double sided bubble wrap 50m,50m,10,112,167.44,10,68906,D-1,20,59,Each,Packaging Materials
+165,10 mm Anti static bubble wrap -Blue 10m,10m,10,26,38.87,5,187313,D-1,20,17,Each,Packaging Materials
+166,10 mm Anti static bubble wrap -Blue 20m,20m,10,42,62.79,6,149668,D-1,20,23,Each,Packaging Materials
+167,10 mm Anti static bubble wrap -Blue 50m,50m,10,99,148.01,10,308519,D-1,20,45,Each,Packaging Materials
+168,20 mm Anti static bubble wrap -Blue 10m,10m,10,29,43.36,5,112946,D-1,20,12,Each,Packaging Materials
+169,20 mm Anti static bubble wrap -Blue 20m,20m,10,45,67.28,6,68707,D-1,20,21,Each,Packaging Materials
+170,20 mm Anti static bubble wrap -Blue 50m,50m,10,102,152.49,10,274265,D-1,20,55,Each,Packaging Materials
+171,32 mm Anti static bubble wrap -Blue 10m,10m,10,32,47.84,5,128136,D-1,20,16,Each,Packaging Materials
+172,32 mm Anti static bubble wrap -Blue 20m,20m,10,48,71.76,6,291347,D-1,20,23,Each,Packaging Materials
+173,32 mm Anti static bubble wrap -Blue 50m,50m,10,105,156.98,10,103958,D-1,20,47,Each,Packaging Materials
+174,Bubblewrap dispenser -Black 1.5m,1.5m,1,240,358.8,10,8879,D-2,2,110,Each,Packaging Materials
+175,Bubblewrap dispenser -Blue 1.5m,1.5m,1,240,358.8,10,15106,D-2,2,110,Each,Packaging Materials
+176,Bubblewrap dispenser -Red 1.5m,1.5m,1,240,358.8,10,41251,D-2,2,110,Each,Packaging Materials
+177,Shipping carton -Brown 413x285x187mm,413x285x187mm,25,1.05,1.57,0.3,58292,D-3,50,0.55,Each,Packaging Materials
+178,Shipping carton -Brown 500x310x310mm,500x310x310mm,25,2.55,3.81,0.4,117043,D-3,50,1.1,Each,Packaging Materials
+179,Shipping carton -Brown 229x229x229mm,229x229x229mm,25,1.05,1.57,0.3,214030,D-3,50,0.55,Each,Packaging Materials
+180,Shipping carton -Brown 279x254x217mm,279x254x217mm,25,1.11,1.66,0.3,318572,D-3,50,0.6,Each,Packaging Materials
+181,Shipping carton -Brown 356x229x229mm,356x229x229mm,25,1.14,1.7,0.4,64432,D-3,50,0.56,Each,Packaging Materials
+182,Shipping carton -Brown 457x279x279mm,457x279x279mm,25,1.28,1.91,0.4,326007,D-3,50,0.6,Each,Packaging Materials
+183,Shipping carton -Brown 480x270x320mm,480x270x320mm,25,2.74,4.1,0.4,62224,D-3,50,1.2,Each,Packaging Materials
+184,Shipping carton -Brown 305x305x305mm,305x305x305mm,25,3.5,5.23,0.3,38,D-3,50,1.9,Each,Packaging Materials
+185,Shipping carton -Brown 356x356x279mm,356x356x279mm,25,2.04,3.05,0.3,723037,D-3,50,1.05,Each,Packaging Materials
